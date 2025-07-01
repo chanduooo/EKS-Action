@@ -11,10 +11,10 @@ on:
         options:
           - apply
           - destroy
-      # confirm_destroy:
-      #   description: "Type 'yes' to confirm destroy"
-      #   required: false
-      #   default: "no"
+      confirm_destroy:
+        description: "Type 'yes' to confirm destroy"
+        required: false
+        default: "no"
 
 jobs:
   terraform:
