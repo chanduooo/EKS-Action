@@ -1,4 +1,4 @@
-name: EKS Terraform Pipeline new
+name: Dev-EKS-infra-code
 
 on:
   workflow_dispatch:
