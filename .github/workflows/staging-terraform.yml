@@ -1,4 +1,4 @@
-name: EKS Terraform Pipeline
+name: staging-infra-pipeline
 
 on:
   workflow_dispatch:
